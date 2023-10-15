@@ -1,3 +1,6 @@
+
+#making of snake game using turtle module of python3 using gui screen
+
 from turtle import Screen,Turtle
 from snake import Snake
 import time
